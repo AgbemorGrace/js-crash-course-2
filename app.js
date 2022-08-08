@@ -16,7 +16,7 @@ console.log(word1 === word2);
 console.log(word1 !== word2);
 
 
-control flow
+//control flow
 let item = "Gino";
 if (item === "Annapurna"){
     console.log("Buy Ananapurna");
